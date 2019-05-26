@@ -58,7 +58,7 @@ cm = confusion_matrix (y_test, y_pred)
 def home():
     return render_template('home.html')
 
-@app.route('/feedback', methods=['POST'])
+@app.route('/feedback', methods=['GET','POST'])
 def feedback():
   
 
