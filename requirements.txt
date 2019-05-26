@@ -3,6 +3,6 @@ catboost
 numpy==1.16.3
 pandas==0.24.2
 scikit-learn==0.21.1
-gunicorn==19.4.5
+gunicorn
 ipython
 ipywidgets
