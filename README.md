@@ -1,2 +1,2 @@
-# ovarian-cancer-detector-web-app
-using catboost classifier detecting ovarian cancer
+# Ovarian-cancer-detector
+Early detection of ovarian cancer of a patient using machine learning
